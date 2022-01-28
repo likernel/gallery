@@ -1,44 +1,100 @@
 {
-  "Mockups": [
+  "test": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
+      "height": 2048,
+      "compressed_path": "./photos/test/wwyD4SL2p_M.min.jpg",
+      "width": 2027,
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "placeholder_path": "./photos/test/wwyD4SL2p_M.placeholder.jpg",
+      "path": "./photos/test/wwyD4SL2p_M.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
+      "height": 3413,
+      "compressed_path": "./photos/test/60ewdzkggMA.min.jpg",
+      "width": 5120,
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "placeholder_path": "./photos/test/60ewdzkggMA.placeholder.jpg",
+      "path": "./photos/test/60ewdzkggMA.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
+      "height": 3042,
+      "compressed_path": "./photos/test/YvRxzR4gzGk.min.jpg",
+      "width": 4564,
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "placeholder_path": "./photos/test/YvRxzR4gzGk.placeholder.jpg",
+      "path": "./photos/test/YvRxzR4gzGk.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
+      "height": 3112,
+      "compressed_path": "./photos/test/MrWOCGKFVDg.min.jpg",
+      "width": 4096,
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "placeholder_path": "./photos/test/MrWOCGKFVDg.placeholder.jpg",
+      "path": "./photos/test/MrWOCGKFVDg.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
+      "height": 2848,
+      "compressed_path": "./photos/test/SQuY313aZyA.min.jpg",
+      "width": 4272,
       "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "placeholder_path": "./photos/test/SQuY313aZyA.placeholder.jpg",
+      "path": "./photos/test/SQuY313aZyA.jpg"
+    },
+    {
+      "height": 5120,
+      "compressed_path": "./photos/test/TXBdXAL-MKI.min.jpg",
+      "width": 3413,
+      "compressed": true,
+      "placeholder_path": "./photos/test/TXBdXAL-MKI.placeholder.jpg",
+      "path": "./photos/test/TXBdXAL-MKI.jpg"
+    },
+    {
+      "height": 3640,
+      "compressed_path": "./photos/test/9r2yeRccyls.min.jpg",
+      "width": 5464,
+      "compressed": true,
+      "placeholder_path": "./photos/test/9r2yeRccyls.placeholder.jpg",
+      "path": "./photos/test/9r2yeRccyls.jpg"
+    },
+    {
+      "height": 2880,
+      "compressed_path": "./photos/test/IVcEqUxR71I.min.jpg",
+      "width": 5120,
+      "compressed": true,
+      "placeholder_path": "./photos/test/IVcEqUxR71I.placeholder.jpg",
+      "path": "./photos/test/IVcEqUxR71I.jpg"
+    },
+    {
+      "height": 2964,
+      "compressed_path": "./photos/test/ewXt28yf8Rc.min.jpg",
+      "width": 4371,
+      "compressed": true,
+      "placeholder_path": "./photos/test/ewXt28yf8Rc.placeholder.jpg",
+      "path": "./photos/test/ewXt28yf8Rc.jpg"
+    },
+    {
+      "height": 2661,
+      "compressed_path": "./photos/test/xtE5CgvHTts.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/test/xtE5CgvHTts.placeholder.jpg",
+      "path": "./photos/test/xtE5CgvHTts.jpg"
+    },
+    {
+      "height": 2877,
+      "compressed_path": "./photos/test/9TyVDM0yfF0.min.jpg",
+      "width": 4818,
+      "compressed": true,
+      "placeholder_path": "./photos/test/9TyVDM0yfF0.placeholder.jpg",
+      "path": "./photos/test/9TyVDM0yfF0.jpg"
+    },
+    {
+      "height": 2872,
+      "compressed_path": "./photos/test/3pbqsxWndkg.min.jpg",
+      "width": 5105,
+      "compressed": true,
+      "placeholder_path": "./photos/test/3pbqsxWndkg.placeholder.jpg",
+      "path": "./photos/test/3pbqsxWndkg.jpg"
     }
   ],
   "Travel Photography": [
